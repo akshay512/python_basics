@@ -1,0 +1,13 @@
+BodyTemperature,GivesBirth,Four-legged,Hibernates,PlayTennis
+warm-blooded,yes,yes,yes,yes
+warm-blooded,yes,yes,no,yes
+warm-blooded,yes,no,yes,no
+warm-blooded,yes,no,no,no
+cold-blooded,no,yes,yes,no
+cold-blooded,no,yes,no,no
+cold-blooded,no,no,yes,no
+cold-blooded,no,no,no,no
+warm-blooded,no,no,no,no
+cold-blooded,yes,no,no,no
+
+   
